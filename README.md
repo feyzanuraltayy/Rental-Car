@@ -160,10 +160,7 @@ WantedBy=multi-user.target
 
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
 
-## 📞 İletişim
 
-- Website: [www.techprodevops.com](http://www.techprodevops.com)
-- Email: [info@techprodevops.com](mailto:info@techprodevops.com)
 
 ## 🙏 Teşekkürler
 
